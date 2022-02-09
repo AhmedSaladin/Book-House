@@ -15,7 +15,7 @@ module.exports = {
         fb: "url('assets/bg.png')",
       },
       fontFamily: {
-        body: ["Roboto"],
+        Roboto: ["Roboto"],
         sans: ["Poppins", "sans-serif"],
       },
     },
