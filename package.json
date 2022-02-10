@@ -1,15 +1,14 @@
 {
-  "name": "book-house",
+  "name": "markup",
   "version": "1.0.0",
-  "description": "",
+  "description": "Book details, Landing/Home. For a book store application",
   "main": "index.js",
   "scripts": {
-    "build-css": "npx tailwindcss -i ./input/in.css -o ./style/styles.css --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
+  "author": "Mohamed Hussein",
+  "license": "MIT",
+  "dependencies": {
     "tailwindcss": "^3.0.18"
   }
 }
